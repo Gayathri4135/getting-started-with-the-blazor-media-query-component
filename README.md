@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to use the Syncfusion [Blazor Media Query](https://www.syncfusion.com/blazor-components/blazor-mediaquery) mbly application to create responsive and adaptive user interfaces. The implementation detects viewport size changes and updates UI content based on media query breakpoints. This approach helps developers deliver optimized experiences across desktop, tablet, and mobile devices while keeping the application logic inside Blazor components.
+This sample demonstrates how to use the Syncfusion [Blazor Media Query](https://www.syncfusion.com/blazor-components/blazor-mediaquery) application to create responsive and adaptive user interfaces. The implementation detects viewport size changes and updates UI content based on media query breakpoints. This approach helps developers deliver optimized experiences across desktop, tablet, and mobile devices while keeping the application logic inside Blazor components.
 
 The sample focuses on responsive design patterns using Syncfusion Blazor components and provides a practical reference for implementing adaptive layouts in modern Blazor applications.
 
@@ -54,7 +54,7 @@ dotnet run
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For implementation details, see the https://blazor.syncfusion.com/documentation/media-query/getting-started.
+- For implementation details, see the [relevant official Syncfusion documentation](https://blazor.syncfusion.com/documentation/media-query/getting-started).
 
 ## License
 
