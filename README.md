@@ -34,21 +34,26 @@ The sample focuses on responsive design patterns using Syncfusion Blazor compone
 
 **Visual Studio Code**
 
-1. Clone this repository.
-2. Open the repository folder in Visual Studio Code.
-3. Open the integrated terminal.
-4. Navigate to the project directory.
+1. Open the repository folder in Visual Studio Code.
+2. Open the integrated terminal.
+3. Navigate to the `BlazorApp__MediaQuery` project directory.
+
+```bash
+cd BlazorApp__MediaQuery
+```
+4. Restore project dependencies:
 
 ```bash
 dotnet restore
+```
+
+5. Run the application:
+
+```bash
 dotnet run
 ```
 
-5. Open the local application URL displayed in the terminal after the application starts.
-
-## Project Structure
-
-- `Pages/Index.razor` — Primary sample page demonstrating the Syncfusion Media Query component and responsive layout behavior.
+6. Open the URL displayed in the terminal after the application starts.
 
 ## Support and Feedback
 
